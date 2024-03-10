@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "id": 4,
+      "conteudo": "⁠O amor é o encontro totalmente aleatório de dois seres que nem são completos nem incompletos, mas que, conscientes de seus pontos faltantes, não desejarão do outro aquilo que excede à capacidade humana. O amor salutar é reflexo da consciência da imperfeição humana.",
+      "autoria": "Débora Medrado",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 5,
+      "conteudo": "Conhecimento Parado Torna-se Esquecimento.",
+      "autoria": "Samantha Schepanski",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 6,
+      "conteudo": "Pura sorte ou obra divina, o acaso não deixa de ser incrível por ser surpreendente, aleatório, soco no estômago ou bilhete premiado.",
+      "autoria": "Bia Willcox",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 7,
+      "conteudo": "Um ato aleatório de bondade, por menor que seja, pode ter um tremendo impacto na vida de outra pessoa.",
+      "autoria": "Roy T. Bennett",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 9,
+      "conteudo": "⁠É interessante como um evento aleatório pode mudar nossas vidas de maneiras que seriam impossíveis de imaginar, não é?",
+      "autoria": "Kyle Mills",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 10,
+      "conteudo": "Aquele momento constrangedor em que você está em outra dimensão e do nada olha aleatório pra pessoa que está te olhando",
+      "autoria": "Luna Hill",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 11,
+      "conteudo": "O Caos é impaciente. É aleatório. E, acima de tudo, egoísta. Ele destrói simplesmente em função da mudança, alimentando-se de si mesmo numa fome constante. Mas o Caos também pode ser atraente",
+      "autoria": "Rick Riordian",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 12,
+      "conteudo": "O problema da vida é que você nunca sabe quando ela vai mudar. Um momento aleatório, um encontro casual pode mudar tudo. Nossa vida é moldada pela coincidência ou há outras forças em ação? Quem controla o que entra pela porta?",
+      "autoria": "Labirinto do Medo",
+      "modelo": "modelo2",
+      "favorito": false
+    }
+  ]
+}
